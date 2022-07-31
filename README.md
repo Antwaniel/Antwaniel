@@ -5,6 +5,7 @@
 	<br>
     	<img src="https://bingimages.herokuapp.com/unsplash1" width="800" height="400">
 </div>
+<h3>Refresh the page to see the magic</h3>
 </br></br>
 <h2>💻 Some stats 💻</h2>
 
