@@ -26,8 +26,6 @@ continuously learning
 </br></br>
 
 
-### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/pickaxe.png" width="40px" /> Tools and Frameworks
-
 
 My Knowledge:
 #### Frontend
