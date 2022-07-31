@@ -8,7 +8,7 @@
   <samp>
     My name is <em>Antonio</em>. I am a Fullstack MERN developer... 
   <br/> Javascript enthusiast... ReactJs lover. 
-    <br/> (<em>ex</em>)Fulltime student.
+    <br/> Systems Engineering student.
       <br/>
 continuously learning
 	  
