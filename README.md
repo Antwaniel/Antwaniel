@@ -77,7 +77,8 @@ Prolog      200 mins         █░░░░░░░░░░░░░░░░
 
 
 
-[<img src="https://spotify-now-playing.satyu.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" style="float: left; margin-right: 10px;" />](https://open.spotify.com/user/djehel041cfyz8fyrsqpnoftn)
+[<img src="https://spotify-now-playing.satyu.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" style="float: left; margin-right: 10px;" />](https://open.spotify.com/user/907xk5z7qnv96q1qbcjru1yk9?si=b09b3c92305e450a)
+
 
 
 
