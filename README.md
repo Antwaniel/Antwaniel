@@ -1,8 +1,8 @@
 ## <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/welcomeglitch.gif" width="50px" /> Hello! I'm Anthony Gonzalez
 <div align="center">
 	<br>
-	<img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="200" height="200">
-	<br>
+<!-- 	<img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="200" height="200"> -->
+<!-- 	<br> -->
 	
 <p align="center" >
   <samp>
@@ -22,7 +22,7 @@ continuously learning
 
 
 
-<h3>Refresh the page to see the magic</h3>
+<!-- <h3>Refresh the page to see the magic</h3> -->
 </br></br>
 
 
