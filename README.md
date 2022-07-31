@@ -1,24 +1,10 @@
-const aboutMe = {
-   pronouns: "he" | "him",
-   code: [Javascript, Typescript, HTML, CSS, Java, PHP, CSharp, Kotlin, Dart],
-   technologies: {
-      frontEnd: {
-         js: ["React", "Angular"],
-         css: [ "Bootstrap", "Angular Material", "PrimeNG"]
-      },
-      backEnd: {
-         java: ["Spring"],
-         js: ["Node", "Express"],
-         php: ["Lumen"],
-         csharp: ["Asp.net Core"],
-      },
-      databases: ["MongoDB", "mySQL", "PostgreeSQL"],
-      mobile: ["Android"]
-   },
-   currentOccupation: ["last year student, open for job opportunities"],
-   challenge: "Learn  Spring Framework",
-};
-
+# 👋🏻 Hello There, I'm Anthony Gonzalez
+<div align="center">
+	<br>
+	<img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="200" height="200">
+	<br>
+    	<img src="https://bingimages.herokuapp.com/unsplash1" width="800" height="400">
+</div>
 </br></br>
 <h2>💻 Some stats 💻</h2>
 
