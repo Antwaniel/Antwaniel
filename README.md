@@ -6,8 +6,8 @@
 	
 <p align="center" >
   <samp>
-    My name is <em>Antonio</em>. I am a Fullstack MERN developer... 
-  <br/> Javascript enthusiast... ReactJs lover. 
+    My name is <em>Antonio</em>. I am a Java Developer... 
+  <br/> Javascript enthusiast... AngularJs lover. 
     <br/> Systems Engineering student.
       <br/>
 continuously learning
