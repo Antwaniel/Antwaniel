@@ -21,14 +21,13 @@ continuously learning
 
 
 <!--START_SECTION:waka-->
-```text
-Week: 07 August, 2020 - 14 August, 2020
-<!-- 
-JavaScript   9 hrs 53 mins   ██████████████████░░░░░░░   74.31 % 
-Angular      59 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   07.45 % 
-NodeJS       58 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   07.32 % 
-Prolog      200 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 %  -->
-```
+<!-- ```text -->
+<!-- Week: 07 August, 2020 - 14 August, 2020 -->
+<!-- JavaScript   9 hrs 53 mins   ██████████████████░░░░░░░   74.31 %     -->
+<!--   Angular      59 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   07.45 %   -->
+<!--  NodeJS       58 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   07.32 %    -->
+<!-- Prolog      200 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 %     -->
+<!--  ```   -->
 <!--END_SECTION:waka-->
 
 
