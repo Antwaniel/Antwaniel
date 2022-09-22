@@ -37,7 +37,7 @@ continuously learning
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Antwaniel&layout=compact)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=alfredomarcelo&show_icons=true&theme=synthwave)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Antwaniel&show_icons=true&theme=synthwave)
 
 
 <!-- 
